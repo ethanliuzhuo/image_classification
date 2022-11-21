@@ -208,7 +208,7 @@ sympy==1.5.1
 tables==3.6.1
 tblib==1.6.0
 tensorboard==1.10.0
-tensorflow==1.15.2
+tensorflow==2.9.3
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
